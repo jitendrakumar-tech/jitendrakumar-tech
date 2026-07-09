@@ -1,21 +1,22 @@
 # Hi, I'm Jitendra Kumar 👋
-### Senior Technical Operations Leader | AI GRC & Cloud Security Specialist
+### Senior Technical Operations & Quality Leader | AI GRC & Cloud Security Specialist
 
-With over 17 years of experience bridging engineering theory and operational excellence, I specialize in bringing robust process governance to modern cloud and security environments. My background in orchestrating complex quality analysis seamlessly translates into ensuring continuous compliance, risk mitigation, and algorithmic thinking in the GRC space.
+For over 17 years, my focus has been on ensuring absolute operational excellence, data integrity, and structural compliance across complex enterprise ecosystems. By combining deep foundational roots in Computer Science Engineering with specialized mastery in cloud defense, regulatory compliance, and AI governance frameworks, I bridge the gap between business operations and ironclad security compliance. Proven track record of scaling operations, executing technical onboarding for 4,000+ personnel, and driving measurable workflow efficiencies.
 
-## 🔐 Focus Areas
-*   **Governance, Risk, and Compliance (GRC):** Regulatory reporting, control monitoring, and aligning security frameworks with business objectives.
-*   **Cloud Security:** Proactive vulnerability management and infrastructure risk reduction.
-*   **Operational Excellence:** Translating high-level regulatory standards into executable daily mitigation strategies.
+## 🔐 Core Expertise & Technical Skills
+*   **AI Governance, Risk & Compliance:** Identity & Access Management | SOC 2 & Audit Readiness
+*   **Cloud Security Architecture:** Process Engineering & Auditing | Lean Six Sigma & Quality Ops
+*   **Threat Modeling & Vulnerability:** Data Integrity & Dashboarding | System Architecture & Networks
 
-## 🏆 Technical Certifications & Credentials
+## 🏆 Certifications & Credentials
 *   **Google Cloud Cybersecurity Certificate** (Google Cloud)
 *   **Google Cloud Computing Foundations: Infrastructure in Google Cloud** (Google Cloud)
+*   **Google Cybersecurity Professional Certificate** — *In Progress*
 *   **Google AI Professional Certificate** (Google)
-*   **Accelerate Your Job Search with AI Specialization** (Google)
-
-## 🔄 Currently Pursuing
-*   **Google Cybersecurity Professional Certificate** (Focusing on modern threat intelligence and AI-driven security operations)
+*   **Accelerate Your Job Search with AI Specialization** (Coursera)
+*   **SOC 2 Compliance Essential Training** (LinkedIn)
+*   **Cybersecurity Compliance & Regulatory Essentials** (LinkedIn)
+*   **Advanced Lean Six Sigma Yellow Belt Certification**
 
 ## 📫 Connect With Me
 *   **LinkedIn:** [linkedin.com/in/jitendrakumar-tech](https://www.linkedin.com/in/jitendrakumar-tech)
