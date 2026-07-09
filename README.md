@@ -8,9 +8,14 @@ With over 17 years of experience bridging engineering theory and operational exc
 *   **Cloud Security:** Proactive vulnerability management and infrastructure risk reduction.
 *   **Operational Excellence:** Translating high-level regulatory standards into executable daily mitigation strategies.
 
-## 🏆 Certifications & Ongoing Learning
-*   **Google AI Professional Certificate:** AI Fundamentals (Completed March 2026)
-*   **Currently Exploring:** Advanced Cloud Security Architecture and Identity Threat Detection (ITDR).
+## 🏆 Technical Certifications & Credentials
+*   **Google Cloud Cybersecurity Certificate** (Google Cloud)
+*   **Google Cloud Computing Foundations: Infrastructure in Google Cloud** (Google Cloud)
+*   **Google AI Professional Certificate** (Google)
+*   **Accelerate Your Job Search with AI Specialization** (Google)
+
+## 🔄 Currently Pursuing
+*   **Google Cybersecurity Professional Certificate** (Focusing on modern threat intelligence and AI-driven security operations)
 
 ## 📫 Connect With Me
 *   **LinkedIn:** [linkedin.com/in/jitendrakumar-tech](https://www.linkedin.com/in/jitendrakumar-tech)
