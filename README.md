@@ -1,7 +1,7 @@
 # Hi, I'm Jitendra Kumar 👋
 ### Senior Technical Operations & Quality Leader | AI GRC & Cloud Security Specialist
 
-For over 17 years, my focus has been on ensuring absolute operational excellence, data integrity, and structural compliance across complex enterprise ecosystems. By combining deep foundational roots in Computer Science Engineering with specialized mastery in cloud defense, regulatory compliance, and AI governance frameworks, I bridge the gap between business operations and ironclad security compliance. Proven track record of scaling operations, executing technical onboarding for 4,000+ personnel, and driving measurable workflow efficiencies.
+Detail-oriented Cybersecurity Analyst and AI GRC Specialist dedicated to safeguarding organizational assets, protecting people, and ensuring strict legal and regulatory compliance. Leveraging over 17 years of technical operations leadership and a deep foundation in Computer Science Engineering, I excel at identifying vulnerabilities and enforcing robust security postures. A continuous learner driven by complex challenges, I utilize strong cross-functional communication to bridge the gap between business operations and ironclad security, scaling operations and successfully executing technical onboarding for 4,000+ personnel.
 
 ## 🔐 Core Expertise & Technical Skills
 * **AI Governance, Risk & Compliance**
