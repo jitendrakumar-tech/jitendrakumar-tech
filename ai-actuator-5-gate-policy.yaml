@@ -1,0 +1,80 @@
+# ==============================================================================
+# GOVERNANCE AS CODE (GaC): 5-GATE CI/CD PROMOTION CIRCUIT BREAKER
+# ==============================================================================
+# Author: Jitendra Kumar (ORCID: 0000-0002-2675-3727)
+# Reference Framework: "Automating the Broken: Bridging the AI Actuator Gap 
+# Through Pipeline Circuit Breakers and Systemic Risk Stewardship"
+# SSRN Abstract ID: 7591718 (https://papers.ssrn.com/abstract=7591718)
+#
+# Standards Alignment:
+#   - ISO/IEC 38500 (Evaluate-Direct-Monitor / EDM Model)
+#   - ISO/IEC 42001 (AI Management System Controls)
+#   - NIST AI RMF 1.0 (Govern, Map, Measure, Manage)
+#   - SOC 2 Type II (Deterministic Change Management & Access Controls)
+# ==============================================================================
+
+apiVersion: governance.enterprise.ai/v1alpha1
+kind: ActuatorCircuitBreakerPolicy
+metadata:
+  name: autonomous-agent-production-gate
+  owner: "AI-GRC-Stewardship"
+  enforcementMode: "DETERMINISTIC_BLOCK" # Halts CI/CD pipeline on any gate failure
+
+spec:
+  targetSystem:
+    classification: "Tier-1 Consequence-Bearing Autonomous Agent"
+    actuatorAccess: true # Agent can execute API calls, DB writes, or resource provisioning
+
+  # ----------------------------------------------------------------------------
+  # THE 5 DETERMINISTIC CI/CD PROMOTION GATES
+  # ----------------------------------------------------------------------------
+  promotionGates:
+
+    # GATE 1: Governance & Data Provenance (NIST AI RMF: MAP | ISO 42001: B.7)
+    - gateId: "GATE-01-DATA-LINEAGE"
+      description: "Verify cryptographic data lineage and zero unmasked PII/Confidential leakage in RAG/training sets."
+      rule:
+        requireSignedDatasetManifest: true
+        piiSanitizationScanPassRate: 100.0
+      onFailure:
+        action: "HALT_BUILD"
+        alertChannel: "secops-compliance-audit"
+
+    # GATE 2: Identity & Actuator Least-Privilege Boundary (IAM & SOC 2)
+    - gateId: "GATE-02-ACTUATOR-IAM-BOUNDARY"
+      description: "Enforce strict least-privilege scoping on all downstream tool, API, and database actuators."
+      rule:
+        allowWildcardPermissions: false
+        requireExplicitActionAllowlist: true
+        maxConcurrentKineticActionsPerMinute: 10
+      onFailure:
+        action: "HALT_BUILD"
+        remediation: "Reject IAM role manifest containing unrestricted write/delete scopes."
+
+    # GATE 3: Algorithmic Integrity & Drift Threshold (NIST AI RMF: MEASURE)
+    - gateId: "GATE-03-DETERMINISTIC-EVAL"
+      description: "Validate model output determinism, hallucination bounds, and statistical drift against baseline."
+      rule:
+        maxHallucinationRatePercent: 0.5
+        maxPopulationStabilityIndexDrift: 0.10
+      onFailure:
+        action: "HALT_BUILD"
+
+    # GATE 4: Adversarial Red-Teaming & Prompt Injection Immunity (Threat Modeling)
+    - gateId: "GATE-04-ADVERSARIAL-RESILIENCE"
+      description: "Automated red-team evaluation against indirect prompt injection and privilege escalation."
+      rule:
+        owaspLlmTop10SuitePassRate: 99.5
+        blockUnauthorizedExternalEgress: true
+      onFailure:
+        action: "HALT_BUILD"
+
+    # GATE 5: Runtime Kill-Switch & Telemetry Hook (ISO/IEC 38500: MONITOR)
+    - gateId: "GATE-05-RUNTIME-CIRCUIT-BREAKER"
+      description: "Ensure automated runtime circuit breaker and immutable audit logging are active prior to deployment."
+      rule:
+        requireImmutableAuditLogSink: true
+        requireAutomatedRollbackWebhook: true
+        maxAnomalyLatencyMsBeforeTrip: 250
+      onFailure:
+        action: "BLOCK_PRODUCTION_PROMOTION"
