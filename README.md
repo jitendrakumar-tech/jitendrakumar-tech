@@ -1,34 +1,43 @@
-# Hi, I'm Jitendra Kumar 👋
-### Senior Technical Operations & Quality Leader | AI GRC & Cloud Security Specialist
+# Hi, I'm Jitendra Kumar
+### Process Governance & AI Risk Specialist | Author: Bridging the AI Actuator Gap | Cloud Security & Quality Governance
 
-Detail-oriented Cybersecurity Analyst and AI GRC Specialist dedicated to safeguarding organizational assets, protecting people, and ensuring strict legal and regulatory compliance. Leveraging over 17 years of technical operations leadership and a deep foundation in Computer Science Engineering, I excel at identifying vulnerabilities and enforcing robust security postures. A continuous learner driven by complex challenges, I utilize strong cross-functional communication to bridge the gap between business operations and ironclad security, scaling operations and successfully executing technical onboarding for 4,000+ personnel.
+Process Governance & AI Risk Specialist dedicated to ensuring that when enterprises scale autonomous systems, they do so with deterministic controls, rigorous safety, and operational resilience. Leveraging 17 years of combined experience in enterprise quality leadership and academic instruction in Computer Science Engineering, I architect pipeline-native governance to bridge the gap between high-level policy and runtime execution.
 
-## 💼 Current Role
-**Team Lead / Supervisor Quality** @ Concentrix Daksh Services India Pvt Ltd
-*Leading quality operations and daily/weekly security compliance reviews, ensuring strict adherence to client security policies while managing remediation plans to close internal and external audit findings.*
+Proven track record of bridging business operations and ironclad security—scaling enterprise quality governance, leading cross-functional compliance audits, and executing technical onboarding for 4,000+ personnel.
 
-## 🔐 Core Expertise & Technical Skills
-* **AI Governance, Risk & Compliance**
-* **Identity & Access Management**
-* **SOC 2 & Audit Readiness**
-* **Cloud Security Architecture**
-* **Process Engineering & Auditing**
-* **Lean Six Sigma & Quality Ops**
-* **Threat Modeling & Vulnerability**
-* **Data Integrity & Dashboarding**
-* **System Architecture & Networks**
+---
 
-## 🏆 Certifications & Credentials
+### Featured Architectural Research
+* **[Automating the Broken: Bridging the AI Actuator Gap Through Pipeline Circuit Breakers and Systemic Risk Stewardship](https://papers.ssrn.com/abstract=7591718)**  
+  *Authored a 9-page architectural framework operationalizing the ISO/IEC 38500 (EDM) model, ISO/IEC 42001, and NIST AI RMF 1.0 through Governance as Code (GaC) and deterministic 5-Gate CI/CD promotion circuit breakers.*
+
+---
+
+### Current Role
+**Team Lead / Supervisor Quality @ Concentrix Daksh Services India Pvt. Ltd.**  
+Leading quality governance and daily/weekly security compliance reviews, enforcing strict adherence to enterprise security policies, and managing deterministic remediation plans to close internal and external audit findings.
+
+---
+
+### Core Expertise & Technical Skills
+* **AI Governance, Risk & Compliance (GRC)** | **Governance as Code (GaC)** | **Pipeline Circuit Breakers**
+* **Identity & Access Management (IAM)** | **SOC 2 & Audit Readiness** | **Cloud Security Architecture**
+* **ISO/IEC 42001 & NIST AI RMF** | **Threat Modeling & Vulnerability** | **Lean Six Sigma & Quality Ops**
+
+---
+
+### Certifications & Credentials
 * **Google Cloud Cybersecurity Certificate** (Google Cloud)
-* **Google Cloud Computing Foundations: Infrastructure in Google Cloud** (Google Cloud)
-* **Human Skills For The Age Of AI** (The Gen AI Academy)
 * **Google AI Professional Certificate** (Google)
-* **Accelerate Your Job Search with AI Specialization** (Coursera)
-* **SOC 2 Compliance Essential Training** (LinkedIn)
-* **Cybersecurity Compliance & Regulatory Essentials** (LinkedIn)
+* **Google Cloud Computing Foundations: Infrastructure in Google Cloud** (Google Cloud)
 * **Advanced Lean Six Sigma Yellow Belt Certification**
-* ⏳ **Google Cybersecurity Professional Certificate** — *In Progress*
+* **SOC 2 Compliance Essential Training** & **Cybersecurity Compliance Essentials** (LinkedIn)
+* **Human Skills for the Age of AI** (The Gen AI Academy)
 
-## 📫 Connect With Me
+---
+
+### Connect & Verify
 * **LinkedIn:** [linkedin.com/in/jitendrakumar-tech](https://www.linkedin.com/in/jitendrakumar-tech)
-* **Email:** [jitu.ait@gmail.com](mailto:jitu.ait@gmail.com)
+* **SSRN Research Repository:** [papers.ssrn.com/abstract=7591718](https://papers.ssrn.com/abstract=7591718)
+* **ORCID Registry:** [orcid.org/0000-0002-2675-3727](https://orcid.org/0000-0002-2675-3727)
+* **Email:** jitu.ait@gmail.com
